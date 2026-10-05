@@ -41,3 +41,8 @@
 配合 `usernamehw.errorlens` 扩展食用效果更佳：
 
 ![](./screenshots/2.png)
+
+
+### 特别鸣谢
+
+本项目的灵感来自 [kawaii-gcc](/Bill-Haku/kawaii-gcc) 项目。为了让可爱的报错可以伴着我们编写代码，我创建了本项目。十分感谢原作者的分享和开源精神。
