@@ -22,13 +22,17 @@
 
 打开「扩展」选项卡，选中 C\C++ 扩展，点击“大小”字样右侧的蓝色字体，如下图所示：
 
-![](./screenshots/1.png)
+<p align="center">
 
-此时应该已经打开了个形如 `C:\Users\XXX\.vscode\extensions\ms-vscode.cpptools-XXX` 的目录，进入该目录下的 `\bin\zh-cn` 文件夹。
+![](https://cdn.luogu.com.cn/upload/image_hosting/36xhy1sg.webp?x-oss-process=image/resize,m_lfit,h_500,w_500,limit_0)
+
+</p>
+
+此时应该已经打开了一个形如 `XXX\.vscode\extensions\ms-vscode.cpptools-XXX` 的目录，进入该目录下的 `\bin\messages\zh-cn` 文件夹。
 
 ### 4. 替换错误提示文件
 
-当前目录下应该有一个叫做 `messages.json` 的文件，建议先将这个文件备份，再使用之前下载的 `messages.json` 替换这个文件。
+当前目录下应该有一个叫做 `messages.json` 的文件，建议先将这个文件备份，然后使用之前下载的 `messages.json` 替换这个文件。
 
 ### 5. 重启扩展
 
@@ -42,9 +46,12 @@
 
 配合 `usernamehw.errorlens` 扩展食用效果更佳：
 
-![](./screenshots/2.png)
+<p align="center">
 
+![](https://cdn.luogu.com.cn/upload/image_hosting/e6wweykg.webp?x-oss-process=image/resize,m_lfit,h_500,w_500,limit_0)
+
+</p>
 
 ### 特别鸣谢
 
-本项目的灵感来自 [kawaii-gcc](/Bill-Haku/kawaii-gcc) 项目。为了让可爱的报错可以伴着我们编写代码，我创建了本项目。十分感谢原作者的分享和开源精神。
+本项目的灵感来自 [kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) 项目。为了让可爱的报错可以伴着我们编写代码，我创建了本项目。十分感谢原作者的分享和开源精神。
